@@ -1,4 +1,4 @@
-# GuessTheNumberGame
+# GuessTheNumberGame 🤔
 ![License](https://img.shields.io/badge/lucaspanzera-GuessTheNumberGame-blue) ![Badge em Finalizado](https://img.shields.io/badge/Status-Finalizado-blue)</br>
 Um jogo interativo de adivinhação, feito em Console C#.
 
